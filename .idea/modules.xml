@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/51job.iml" filepath="$PROJECT_DIR$/.idea/51job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" filepath="$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../job51/.idea/job51.iml" filepath="$PROJECT_DIR$/../job51/.idea/job51.iml" />
+      <module fileurl="file://Z:/DEVELOP/yiduixiangmu/项目1/pythonProject/.idea/study_Map.iml" filepath="Z:/DEVELOP/yiduixiangmu/项目1/pythonProject/.idea/study_Map.iml" />
+      <module fileurl="file://Z:/DEVELOP/yiduixiangmu/项目1/test/.idea/test.iml" filepath="Z:/DEVELOP/yiduixiangmu/项目1/test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhaopingpaqu/.idea/zhaopingpaqu.iml" filepath="$PROJECT_DIR$/../zhaopingpaqu/.idea/zhaopingpaqu.iml" />
+    </modules>
+  </component>
+</project>
